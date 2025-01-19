@@ -11,11 +11,9 @@
   <a href="https://www.instagram.com/leila_giangiardi/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/users/giangiardi">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-
 
 ###
 
@@ -63,8 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="40" alt="scikit-learn logo" />
-
-
 </div>
 
 ###
