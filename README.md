@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://art.pixilart.com/sr2f3c8967713aws3.gif" alt="Exemplo de GIF" width="600" height="300" />
+  <img src="https://art.pixilart.com/sr2f3c8967713aws3.gif" alt="Exemplo de GIF" width="450" height="300" />
 </div>
 
 ###
