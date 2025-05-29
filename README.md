@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">Hello! Welcome to my GitHub!</h1>
+<h1 align="center">Hello world! Welcome to my GitHub!</h1>
 
 ###
 
