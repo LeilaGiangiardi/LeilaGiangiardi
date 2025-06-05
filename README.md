@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/leila_giangiardi/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/leilagiangiardi/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
@@ -31,7 +31,11 @@
 
 ###
 
-<p align="left">- 🔭 Information Systems Student<br>- 📚 I'm currently learning Java and Python</p>
+<p align="left">
+  - 🔭 Information Systems Student and IT Intern at STI/UAST<br>
+  - 📚 I'm currently advancing my skills in Java, Python, Spring Boot, and database management.<br>
+  - 🌱 Aspiring full-stack developer with a passion for creating impactful solutions.
+</p>
 
 ###
 
@@ -46,9 +50,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
@@ -64,12 +70,11 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="40" alt="scikit-learn logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
- 
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥    My Stats :</h3>
 
 ###
 
